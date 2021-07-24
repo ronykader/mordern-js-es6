@@ -17,3 +17,26 @@ let multiArray = [
 ];
 
 console.log(multiArray[0].name);
+
+/**
+ * Importent Built in Function of Array
+ */
+
+
+// Array find()
+
+// array findIndex()
+
+// Array filter()
+
+// Array slice()
+
+// Array splice()
+
+// Array concat()
+
+// Array push()
+
+// Array map()
+
+// Array reduce()
